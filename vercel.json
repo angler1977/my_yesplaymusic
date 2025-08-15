@@ -2,7 +2,7 @@
   "rewrites": [
     {
       "source": "/api/:match*",
-      "destination": "https://netease-cloud-music-api-six-bay-92.vercel.app/:match*"
+      "destination": "https://github.com/angler1977/my_yesplaymusic/blob/main/vercel.json/：match*"
     }
   ]
 }
